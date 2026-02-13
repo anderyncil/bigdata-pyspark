@@ -1,0 +1,14 @@
+# Variables Entorno - Secret
+.env
+
+# Entorno Virtual
+venv
+venv/
+.venv
+.venv/
+
+# Archivos Temporales
+*.pyc
+__pycache__/
+.DS_Store
+
